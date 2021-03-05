@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t2s video", "t2s video\t2s video.csproj", "{DF1D34F4-1638-4278-9B20-3684358A2648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1D34F4-1638-4278-9B20-3684358A2648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1D34F4-1638-4278-9B20-3684358A2648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1D34F4-1638-4278-9B20-3684358A2648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1D34F4-1638-4278-9B20-3684358A2648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8A3D5E-3C14-4DAD-B536-0DF1DDA63A75}
+	EndGlobalSection
+EndGlobal
